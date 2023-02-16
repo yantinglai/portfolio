@@ -1,5 +1,10 @@
 # portfolio
 
+Link to my website: https://yantinglai.github.io/portfolio.github.io/
+
+Link to my Github: https://github.com/yantinglai/portfolio.github.io
+
+Write Up and reference: please see the readme file on GitHub or the uploaded text file 
 1.What was the most challenging piece of this assignment?  Did you find it easy or challenging to work with HTML and CSS?  How long did this overall assignment take you?
 Time management was the most challenging part, since I also had another part time job that would take me lots of time, so the time I can dedicate to this project is very limited. I find it really simple to work with HTML and CSS. The assignment took me about 2 or 3 days to finish for the first very very sketchy version, and I would say there’s still lots of room for improvement! 
 
